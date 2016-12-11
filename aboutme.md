@@ -1,6 +1,6 @@
 ---
 layout: page
-title: ~Me/PersonalWebpage/AboutMe
+title: ~Me/AboutMe
 subtitle: Why you'd want to go on a date with me
 ---
 
