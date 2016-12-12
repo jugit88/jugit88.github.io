@@ -1,16 +1,16 @@
 ---
 layout: page
 title: ~Me/AboutMe
-subtitle: Why you'd want to go on a date with me
+subtitle: 
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+### Bio
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+Recent CS graduate from CU Boulder. I think being spontaneous is a beautiful thing. I enjoy sports, proabably a little too much. Travelling never leaves me satisfied, but I love it.  
 
-What else do you need?
+Quotes I'm feeling right now:
 
-### my history
+- "I love a great quote."
+- "Nice prius." - no one ever
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](http://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+
