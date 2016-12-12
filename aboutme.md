@@ -10,7 +10,7 @@ Recent CS graduate from CU Boulder. I think being spontaneous is a beautiful thi
 
 Quotes I'm feeling right now:
 
-- "I love a great quote."
+- "I love a great quote." - quote abuser
 - "Nice prius." - no one ever
 
 
