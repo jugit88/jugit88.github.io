@@ -40,7 +40,7 @@ avatar: "/img/pict01.jpg"
 # Important: you must keep the "name" parameter, everything else you can remove
 author:
   name: Jeremy Udis
-  #email: "youremail@domain.com"
+  email: "youremail@domain.com"
   #facebook: yourname  # eg. daattali
   github: jugit88    # eg. daattali
   twitter: JUtravels    # eg. daattali
