@@ -6,7 +6,7 @@ subtitle:
 
 ### Bio
 
-Recent CS graduate from CU Boulder. I think being spontaneous is a beautiful thing. I enjoy sports, proabably a little too much. Travelling never leaves me satisfied, but I love it.  
+Recent CS graduate from CU Boulder. I think being spontaneous is a beautiful thing. I enjoy sports, probably a little too much. Travelling never leaves me satisfied, but I love it.  
 
 Quotes I'm feeling right now:
 
