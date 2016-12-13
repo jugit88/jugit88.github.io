@@ -23,9 +23,13 @@ To mitigate some of the issues above, my strategy was to use various cluster com
 such as [Hadoop](http://hadoop.apache.org/), [Apache Spark](http://spark.apache.org/), [Apache Mesos](http://mesos.apache.org/),etc.
 In short, these technologies make it easier to process, manage, and store large amounts of data. The Twitte API is a harder workaround,
 as getting authorization can prove difficult depending on your task.
+
 ### Tools Used in the Class
 
 ##### Languages: Python, R
+
 ##### Frameworks: [Hadoop](http://hadoop.apache.org/), [Apache Spark](http://spark.apache.org/), [Apache Mesos](http://mesos.apache.org/)
+
 ##### Database: NoSQL([Redis](https://redis.io/) w/[JSON](http://www.json.org/) as data)
+
 ##### APIs: [Twitter Search](https://dev.twitter.com/rest/public/search)
