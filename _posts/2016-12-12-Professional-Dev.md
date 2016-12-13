@@ -3,7 +3,7 @@ layout: post
 title: My Journey through CS3112
 ---
 
-##Intro
+*Intro*
 
 When I began this course, I was really unsure about the direction I was going to take. I had never been in a course where
 I was given the freedom to work on anything I choose. I began thinking about what is important to me and how I can make a project
