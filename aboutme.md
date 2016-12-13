@@ -1,6 +1,6 @@
 ---
 layout: page
-title: ~Me/AboutMe
+title: ~/AboutMe
 subtitle: 
 ---
 
