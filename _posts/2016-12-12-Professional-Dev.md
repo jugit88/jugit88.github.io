@@ -1,6 +1,6 @@
 ---
 layout: post
-title: My Journey through CS3112
+title: My Journey through CS 3112
 ---
 
 ## Intro
