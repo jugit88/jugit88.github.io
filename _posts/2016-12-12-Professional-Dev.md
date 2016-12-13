@@ -26,9 +26,6 @@ as getting authorization can prove difficult depending on your task.
 ### Tools Used in the Class
 
 ##### Languages: Python, R
-
 ##### Frameworks: [Hadoop](http://hadoop.apache.org/), [Apache Spark](http://spark.apache.org/), [Apache Mesos](http://mesos.apache.org/)
-
 ##### Database: NoSQL([Redis](https://redis.io/) w/[JSON](http://www.json.org/) as data)
-
 ##### APIs: [Twitter Search](https://dev.twitter.com/rest/public/search)
