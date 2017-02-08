@@ -24,7 +24,7 @@ description: Programmer by trade, traveler for life!
 # List of links in the navigation bar
 navbar-links:
   About Me: "aboutme"
-  Resume/CV: "Resume_CV(1).pdf"
+  Resume/CV: "/Resume_CV(1).pdf"
   #Resources:
    # - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
     #- Learn markdown: "http://www.markdowntutorial.com/"
