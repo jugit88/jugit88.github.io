@@ -8,7 +8,7 @@ subtitle:
 
 Recent CS graduate from CU Boulder. I think being spontaneous is a beautiful thing. I enjoy sports, probably a little too much. Travelling never leaves me satisfied, but I love it. 
 
-[Resume](/Resume_CV-9-27-17.pdf)
+[Resume](/_posts/Resume_CV-9-27-17.pdf)
 
 Quotes I'm feeling right now:
 
